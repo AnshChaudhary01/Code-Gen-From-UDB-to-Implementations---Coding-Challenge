@@ -1,0 +1,6 @@
+name: clmul
+long_name: Carry-less multiply (low-part)
+assembly_format: xd, xs1, xs2
+defined_by: Zbc, Zbkc
+funct7: 5
+funct3: 1
